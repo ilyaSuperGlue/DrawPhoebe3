@@ -4,8 +4,6 @@
 
 ### Lineart
 
----
-
 <img src="lineart.webp">
 
 ---
