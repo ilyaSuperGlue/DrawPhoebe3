@@ -14,6 +14,6 @@
 
 ---
 
-### Shading - WIP
+### Shading
 
 <img src="finish.png">
